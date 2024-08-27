@@ -1,7 +1,7 @@
 // Define LED pins
-const int redLight = 2;
-const int yellowLight = 3;
-const int greenLight = 4;
+const int redLight = 9;
+const int yellowLight = 8;
+const int greenLight = 7;
 
 void setup() {
   // Set the LED pins as OUTPUT
